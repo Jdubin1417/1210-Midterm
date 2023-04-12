@@ -1,0 +1,79 @@
+/*
+*       Author:				Justin Dubin
+*		Date:				24 Mar 22
+*		Last revised:		24 Mar 22
+*   	Assignment:			Midterm
+*		Purpose:			Coding portion of midterm
+*/
+
+body {
+    max-width: 1000px;
+    min-height: 800px;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    width: 100%;   
+    border-width: 1px;
+    border-color: rgb(43, 43, 43);
+    border-style: solid;
+}
+
+#container {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgba(207, 207, 207, 0.8);
+    max-width: 800px;
+    min-height: 600px;
+    padding: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin: 0 auto;
+    border-width: 1px;
+    border-color: rgb(41, 41, 41);
+    border-style: solid;
+}
+
+header, nav, footer {
+	background-color: rgba(207, 207, 207, 0.8);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    margin: 0;
+    padding: 10px 0px;
+}
+
+header {
+    max-width: 1000px;
+	height: 115px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    border-width: 1px;
+    border-color: rgb(43, 43, 43);
+    border-style: solid;
+}
+
+#content1 {
+    padding: 10px;
+    float:left;
+}
+
+#content2 {
+    padding: 10px;
+    float:left;
+}
+
+#content3 {
+    padding: 10px;
+    float:left;
+}
+
+.img-left {
+    display: block;
+    float: left;
+    margin-bottom: 25px;
+}
+
+#space {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
